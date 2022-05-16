@@ -1,6 +1,3 @@
-# Bookworm
-
-Bookworm for bookworms :)
 
 ## Getting started
 
